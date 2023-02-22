@@ -1,0 +1,30 @@
+{
+    "toys":[
+        {
+    "id": "1",
+    "Name": "toys",
+    "category": "xyz",
+    "price": 200
+  },
+  {
+    "id": "2",
+    "Name": "toys1",
+    "category": "xyz",
+    "price": 100
+  },
+  {
+    "id": "3",
+    "Name": "toys2",
+    "category": "xyy",
+    "price": 300
+  },
+  {
+    "id": "4",
+    "Name": "toys3",
+    "category": "zyy",
+    "price": 50
+  }
+    ],
+    "register":[]
+
+}
