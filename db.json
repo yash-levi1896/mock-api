@@ -161,14 +161,7 @@
 "price":6.00
 ,"category":"art & craft"
 },
-{"id":24,
-  "image":"https://dggo.dollargeneral.com/images/28/64/28646701_0.jpg",
-"title":"Pink Wagon Doll Set",
-"Rating":2,
-"price":20.00
-,"category":"art & craft"
 
-},
 {"id":25,
   "image":"https://dggo.dollargeneral.com/images/27/56/27566701_0.jpg",
   "title":"Matching Memory Game",
@@ -326,7 +319,7 @@
 {"id":44,"image":"https://dggo.dollargeneral.com/images/31/69/31698401_0.jpg",
 "title":"Adorable Princess Beauty Dress Up Toy Set","Rating":4,"price":5.00,"category":"Puzzles games & books"},
 {"id":45,"image":"https://dggo.dollargeneral.com/images/28/64/28644201_0.jpg","title":"Monopoly Jackpot Board Game","Rating":4,"price":20.00,"category":"Puzzles games & books"},
-{"id":46,"image":"https://dggo.dollargeneral.com/images/13/82/13826401_0.jpg","title":"Crayola Coloring Book","Rating":4,"price":1.00,"category":"Puzzles games & books"},
+
 {"id":47,"image":"https://dggo.dollargeneral.com/images/31/75/31758601_0.jpg","title":"Mouse Trap Escape","Rating":4,"price":15.00,"category":"Puzzles games & books"},
 {"id":48,"image":"https://dggo.dollargeneral.com/images/28/64/28640901_0.jpg","title":"Burger Pile-Up! Number Stacking Game, 52 Pcs","Rating":4,"price":5.00,"category":"Puzzles games & books"
 },
@@ -353,7 +346,7 @@
 {"id":62,"image":"https://dggo.dollargeneral.com/images/22/50/22504601_0.jpg","title":"Call Of Duty Weapon Crate","Rating":3.6,"price":11.20,"availability-text":"Exclusively available in store","inner-text":"","stock-label":"3 in stock at your store","button":"View details","category":"action-figure"},
 {"id":63,"image":"https://dggo.dollargeneral.com/images/31/95/31953401_0.jpg","title":"Licensed Roblox Figurine","Rating":3,"price":8.00,"availability-text":"Exclusively available in store","inner-text":"","stock-label":"2 in stock at your store","button":"View details","category":"action-figure"},
 {"id":64,"image":"https://dggo.dollargeneral.com/images/28/64/28643101_0.jpg","title":"Marvel 9.5\" Scale Collectible Super Hero Action Figure Toy","Rating":1,"price":10.00,"availability-text":"Available for shipping","inner-text":"Add to cart","stock-label":"","category":"action-figure"},
-{"id":65,"image":"https://dggo.dollargeneral.com/images/26/27/26272601_0.jpg","title":"Heroes Of Goo Jit Zu Minis Versus Pack","Rating":3,"price":5.00,"availability-text":"Available for DG Pickup","inner-text":"Add to cart","stock-label":"2 in stock at your store","category":"action-figure"},
+
 {"id":66,"image":"https://dggo.dollargeneral.com/images/01/36/01362501_0.jpg","title":"Planet Earth Toy Snake","Rating":4.5,"price":1.00,"availability-text":"Exclusively available in store","inner-text":"","stock-label":"10 in stock at your store","button":"View details","category":"action-figure"},
 {"id":67,"image":"https://dggo.dollargeneral.com/images/30/19/30198601_0.jpg","title":"Pj Masks Glow Wheelers","Rating":5,"price":11.00,"availability-text":"","inner-text":"","stock-label":"Out of stock","button":"View details","category":"action-figure"},
 {"id":68,"image":"https://dggo.dollargeneral.com/images/31/76/31762901_0.jpg","title":"Squawkin Chicken","Rating":2,"price":5.00,"availability-text":"Exclusively available in store","inner-text":"","stock-label":"8 in stock at your store","button":"View details","category":"action-figure"},
@@ -367,7 +360,7 @@
 
 {"id":73,"image":"https://dggo.dollargeneral.com/images/31/69/31698101_0.jpg","title":"Fashion Friends Magnetic Wooden Dress-Up Doll","Rating":4,"price":10.00,"stock-label":"Out of stock at your store","availability-text":"Available for DG Pickup","button":"View details","inner-text":"","category":"Dolls"},
 {"id":74,"image":"https://dggo.dollargeneral.com/images/28/32/28325701_0.jpg","title":"Baby Magic Scented Much Love Baby","Rating":1,"price":6.00,"stock-label":"2 in stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Dolls"},
-{"id":75,"image":"https://dggo.dollargeneral.com/images/28/64/28646701_0.jpg","title":"My Pink Wagon Doll Set","Rating":22,"price":20.00,"stock-label":"Out of stock","availability-text":"","button":"View details","inner-text":"","category":"Dolls"},
+{"id":75,"image":"https://dggo.dollargeneral.com/images/28/64/28646701_0.jpg","title":"My Pink Wagon Doll Set","Rating":2.2,"price":20.00,"stock-label":"Out of stock","availability-text":"","button":"View details","inner-text":"","category":"Dolls"},
 {"id":76,"image":"https://dggo.dollargeneral.com/images/31/70/31702101_0.jpg","title":"Potty Time Doll","Rating":4,"price":15.00,"stock-label":"","availability-text":"Available for shipping","inner-text":"Add to cart","category":"Dolls"},
 {"id":77,"image":"https://dggo.dollargeneral.com/images/31/70/31700801_0.jpg","title":"Baby Doll Accessories Set","Rating":4,"price":13.00,"stock-label":"Out of stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Dolls"},
 {"id":78,"image":"https://dggo.dollargeneral.com/images/26/27/26270601_0.jpg","title":"Fashion Doll","Rating":3,"price":5.00,"stock-label":"5 in stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Dolls"},
@@ -375,8 +368,7 @@
 {"id":80,"image":"https://dggo.dollargeneral.com/images/28/64/28647301_0.jpg","title":"Little Darlings Potty Time Baby Doll","Rating":2,"price":15.00,"stock-label":"","availability-text":"Available for shipping","inner-text":"Add to cart","category":"Dolls"},
 {"id":81,"image":"https://dggo.dollargeneral.com/images/31/67/31678201_0.jpg","title":"Color Change Surprise","Rating":3.5,"price":11.00,"stock-label":"Out of stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Dolls"},
 {"id":82,"image":"https://dggo.dollargeneral.com/images/31/70/31702201_0.jpg","title":"Talking Doll Playset","Rating":4,"price":15.00,"stock-label":"","availability-text":"Available for shipping","inner-text":"Add to cart","category":"Dolls"},
-{"id":83,"image":"https://dggo.dollargeneral.com/images/31/70/31700601_0.jpg","title":"Bath Time Baby Doll","Rating":4,"price":5.00,"stock-label":"Out of stock at your store","availability-text":"Available for DG Pickup","button":"View details","inner-text":"","category":"Dolls"},
-{"id":84,"image":"https://dggo.dollargeneral.com/images/31/80/31807301_0.jpg","title":"Lounge Doll","Rating":5,"price":15.00,"stock-label":"1 in stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Dolls"},
+
 
 
 
@@ -396,10 +388,7 @@
 {"id":96,"image":"https://dggo.dollargeneral.com/images/28/64/28640201_0.jpg","title":"Vtech Drop & Go Dump Truck","Rating":5,"price":15.00,"availability-text":"","inner-text":"","stock-label":"Out of stock","button":"View details","category":"Vehicle & Train"},
 {"id":97,"image":"https://dggo.dollargeneral.com/images/01/36/01366603_0.jpg","title":"Disney Junior Daily Driver Toy Car","Rating":3.8,"price":9.00,"stock-label":"3 in stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Vehicle & Train"},
 {"id":98,"image":"https://dggo.dollargeneral.com/images/21/05/21051801_0.jpg","title":"Mattel Hot Wheels Track Stars","Rating":4,"price":6.50,"stock-label":"6 in stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Vehicle & Train"},
-{"id":99,"image":"https://dggo.dollargeneral.com/images/28/18/28188101_0.jpg","title":"Friction Trucks, 2 Ct","Rating":4.8,"price":6.00,"stock-label":"4 in stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Vehicle & Train"},
-{"id":100,"image":"https://dggo.dollargeneral.com/images/32/32/32325601_0.jpg","title":"Hot Wheels Pull Back Racers","Rating":5,"price":5.00,"stock-label":"2 in stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Vehicle & Train"},
-{"id":101,"image":"https://dggo.dollargeneral.com/images/27/57/27572602_0.jpg","title":"X Turbo Power Motorcycle","Rating":1,"price":5.50,"stock-label":"4 in stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Vehicle & Train"},
-{"id":102,"image":"https://dggo.dollargeneral.com/images/09/36/09364702_0.jpg","title":"Mattel Hot Wheels Monster Truck","Rating":1.5,"price":5.50,"stock-label":"10 in stock at your store","availability-text":"Available for DG Pickup","inner-text":"Add to cart","category":"Vehicle & Train"},
+
 {"id":103,"image":"https://dggo.dollargeneral.com/images/31/65/31654501_0.jpg","title":"X Turbo Power Monster Truck","Rating":3,"price":1.00,"stock-label":"7 in stock at your store","availability-text":"Exclusively available in store","button":"View details","inner-text":"","category":"Vehicle & Train"},
 {"id":104,"image":"https://dggo.dollargeneral.com/images/01/34/01347203_0.jpg","title":"Hot Wheels Basic Car","Rating":5,"price":1.25,"stock-label":"94 in stock at your store","availability-text":"Available for DG Pickup","inner-text":"Add to cart","category":"Vehicle & Train"},
 {"id":105,"image":"https://dggo.dollargeneral.com/images/30/19/30198601_0.jpg","title":"Pj Masks Glow Wheelers","Rating":3.2,"price":11.00,"stock-label":"Out of stock","availability-text":"","button":"View details","inner-text":"","category":"Vehicle & Train"},
@@ -416,7 +405,7 @@
 {"id":116,"image":"https://dggo.dollargeneral.com/images/31/32/31327701_0.jpg","title":"Motorcycle Launcher","Rating":1,"price":5.00,"stock-label":"2 in stock at your store","availability-text":"Exclusively available in store","inner-text":"","button":"View details","category":"Vehicle & Train"},
 {"id":117,"image":"https://dggo.dollargeneral.com/images/22/87/22875901_0.jpg","title":"Mattel Hot Wheels Classic Stunt Cars","Rating":1.8,"price":8.00,"stock-label":"7 in stock at your store","availability-text":"DG Pickup, shipping","inner-text":"Add to cart","category":"Vehicle & Train"},
 {"id":118,"image":"https://dggo.dollargeneral.com/images/28/16/28162801_0.jpg","title":"Maxx Action Lights & Sounds Emergency Vehicle","Rating":4.2,"price":6.00,"stock-label":"7 in stock at your store","availability-text":"Exclusively available in store","inner-text":"","button":"View details","category":"Vehicle & Train"},
-{"id":119,"image":"https://dggo.dollargeneral.com/images/30/63/30638901_0.jpg","title":"Marvel Spidey And His Amazing Friends Hero Figure With Motorcycle","Rating":3.7,"price":6.50,"stock-label":"2 in stock at your store","availability-text":"Available for DG Pickup","inner-text":"Add to cart","category":"Vehicle & Train"},
+
 {"id":120,"image":"https://dggo.dollargeneral.com/images/31/63/31636301_0.jpg","title":"Hot Wheels 30 Car Case","Rating":5,"price":10.00,"stock-label":"2 in stock at your store","availability-text":"Available for DG Pickup","inner-text":"Add to cart","category":"Vehicle & Train"}
 
     ],
